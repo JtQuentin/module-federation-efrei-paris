@@ -1,6 +1,6 @@
 import LocalButton from './Button';
-import Navbar from '../../sharedComponent/src/NavBar/navbar';
-import Footer from '../../sharedComponent/src/Footer/footer';
+import Navbar from '../../sharedComponent/src/navbar'
+import Footer from '../../sharedComponent/src/footer'
 
 const App = () => (
   <div>
